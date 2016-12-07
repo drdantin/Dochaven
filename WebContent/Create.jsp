@@ -51,7 +51,7 @@
              
             </form>
             
-             <form action="${pageContext.request.contextPath}/CreateUser_Upload.jsp" method="get">
+             <form action="${pageContext.request.contextPath}/Welcome.jsp" method="get">
 	   		<p>
 	   				<button name="back" type="submit" value="Back"><b>BACK</b></button>
 	   		
